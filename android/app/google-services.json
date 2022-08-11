@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300026019633",
+    "project_id": "image-upload-app-ada9d",
+    "storage_bucket": "image-upload-app-ada9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300026019633:android:fe5880f2dcc1a6fff77a10",
+        "android_client_info": {
+          "package_name": "com.ranula.photo_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300026019633-pkv0aep2lgdka0amdcqhe3ai1vn1nk8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp3YgxUx2jwR7WzwSrlkYtkl4FBNIjmYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300026019633-pkv0aep2lgdka0amdcqhe3ai1vn1nk8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
